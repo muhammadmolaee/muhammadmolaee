@@ -4,7 +4,6 @@
 - 💻 I love to code
 - 🚀 Always learning new things
 - 🛠️ Interested in software development
-- this i empty
 
 ---
 
