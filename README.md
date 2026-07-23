@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohamad
+## Hi there 👋 I'm Muhammad
 
 ### 👨‍💻 About Me
 - 💻 I love to code
